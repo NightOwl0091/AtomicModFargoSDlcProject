@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<!-- Import tModLoader mod properties -->
+	<Import Project="..\tModLoader.targets" />
+
+	<!-- General -->
+	<PropertyGroup>
+		
+	</PropertyGroup>
+	<ItemGroup>
+	  <Folder Include="Assets\Sprites\ModBiomes\Radiations\Blocks\Building\" />
+	  <Folder Include="Assets\Sprites\ModBiomes\Radiations\Vines&amp;Grass\" />
+	  <Folder Include="Assets\Sprites\Vanilla Addons\Seeds\" />
+	  <Folder Include="Assets\Sprites\VanillaBiomes\Blocks\" />
+	  <Folder Include="Assets\Sprites\VanillaBiomes\Tiles\" />
+	  <Folder Include="Assets\Sprites\VanillaBiomes\Vines&amp;Grass\" />
+	</ItemGroup>
+	<ItemGroup>
+	  <Reference Include="Fargowiltas">
+	    <HintPath>..\..\..\..\..\..\..\Downloads\Fargowiltas.dll</HintPath>
+	  </Reference>
+	  <Reference Include="FargowiltasSouls">
+	    <HintPath>..\..\..\..\..\..\..\Downloads\FargowiltasSouls.dll</HintPath>
+	  </Reference>
+	  <Reference Include="ModLiquidLib">
+	    <HintPath>..\..\..\..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\workshop\content\1281930\3539368598\2026.8\ModLiquidLib\ModLiquidLib.dll</HintPath>
+	  </Reference>
+	</ItemGroup>
+
+	<!-- References -->
+
+</Project>

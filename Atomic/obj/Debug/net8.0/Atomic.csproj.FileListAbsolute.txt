@@ -1,0 +1,13 @@
+C:\Users\Worka\OneDrive\Documentos\My Games\Terraria\tModLoader\ModSources\Atomic\bin\Debug\net8.0\Atomic.deps.json
+C:\Users\Worka\OneDrive\Documentos\My Games\Terraria\tModLoader\ModSources\Atomic\bin\Debug\net8.0\Atomic.dll
+C:\Users\Worka\OneDrive\Documentos\My Games\Terraria\tModLoader\ModSources\Atomic\bin\Debug\net8.0\Atomic.pdb
+C:\Users\Worka\OneDrive\Documentos\My Games\Terraria\tModLoader\ModSources\Atomic\obj\Debug\net8.0\Atomic.csproj.AssemblyReference.cache
+C:\Users\Worka\OneDrive\Documentos\My Games\Terraria\tModLoader\ModSources\Atomic\obj\Debug\net8.0\Atomic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Worka\OneDrive\Documentos\My Games\Terraria\tModLoader\ModSources\Atomic\obj\Debug\net8.0\Atomic.AssemblyInfoInputs.cache
+C:\Users\Worka\OneDrive\Documentos\My Games\Terraria\tModLoader\ModSources\Atomic\obj\Debug\net8.0\Atomic.AssemblyInfo.cs
+C:\Users\Worka\OneDrive\Documentos\My Games\Terraria\tModLoader\ModSources\Atomic\obj\Debug\net8.0\Atomic.csproj.CoreCompileInputs.cache
+C:\Users\Worka\OneDrive\Documentos\My Games\Terraria\tModLoader\ModSources\Atomic\obj\Debug\net8.0\Atomic.dll
+C:\Users\Worka\OneDrive\Documentos\My Games\Terraria\tModLoader\ModSources\Atomic\obj\Debug\net8.0\refint\Atomic.dll
+C:\Users\Worka\OneDrive\Documentos\My Games\Terraria\tModLoader\ModSources\Atomic\obj\Debug\net8.0\Atomic.pdb
+C:\Users\Worka\OneDrive\Documentos\My Games\Terraria\tModLoader\ModSources\Atomic\obj\Debug\net8.0\ref\Atomic.dll
+C:\Users\Worka\OneDrive\Documentos\My Games\Terraria\tModLoader\ModSources\Atomic\obj\Debug\net8.0\Atomic.csproj.Up2Date

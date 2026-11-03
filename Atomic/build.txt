@@ -1,0 +1,5 @@
+author = Renan
+version = 1.0
+displayName = Atomic
+modReferences = Fargowiltas, FargowiltasSouls, ModLiquidLib
+weakReferences = BTitles, BossChecklist

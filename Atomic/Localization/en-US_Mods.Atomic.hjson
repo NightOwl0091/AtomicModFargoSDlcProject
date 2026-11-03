@@ -1,0 +1,250 @@
+Items: {
+	Fatman: {
+		DisplayName: Fatman
+		Tooltip: ""
+	}
+
+	NuclearItem: {
+		DisplayName: Nuclear Item
+		Tooltip: ""
+	}
+
+	MushroomSpreader: {
+		DisplayName: Espalhador de Cogumelo
+		Tooltip:
+			'''
+			Purifica a radiação com uma explosão de esporos
+			Usa Cogumelos Brilhantes como munição
+			'''
+	}
+
+	BlueMushroomSeed: {
+		DisplayName: Blue Mushroom Seed
+		Tooltip: ""
+	}
+
+	RedMushroomSeed: {
+		DisplayName: Red Mushroom Seed
+		Tooltip: ""
+	}
+
+	GiantBlueMushroomItem: {
+		DisplayName: Cogumelo Azul Gigante
+		Tooltip: Deixa você drogado por 1 minuto
+	}
+
+	GiantRedMushroomItem: {
+		DisplayName: Cogumelo Vermelho Gigante
+		Tooltip: Concede voo infinito por 8 segundos
+	}
+
+	GiantBMushConsumable: {
+		Tooltip: ""
+		DisplayName: Giant B Mush Consumable
+	}
+
+	GiantRMushConsumable: {
+		DisplayName: Giant R Mush Consumable
+		Tooltip: ""
+	}
+
+	PsilocybeCubensis: {
+		Tooltip: ""
+		DisplayName: Psilocybe Cubensis
+	}
+
+	AmanitaMuscaria: {
+		Tooltip: ""
+		DisplayName: Amanita Muscaria
+	}
+
+	AtomicStoneItem: {
+		DisplayName: Atomic Stone Item
+		Tooltip: ""
+	}
+
+	AtomicSandItem: {
+		Tooltip: ""
+		DisplayName: Atomic Sand Item
+	}
+
+	AtomicDirtItem: {
+		Tooltip: ""
+		DisplayName: Atomic Dirt Item
+	}
+
+	AtomicDirtBlock: {
+		DisplayName: Atomic Dirt Block
+		Tooltip: ""
+	}
+
+	RadiationBucket: {
+		Tooltip: ""
+		DisplayName: Radiation Bucket
+	}
+
+	Asinhas_De_Mosca: {
+		DisplayName: Asinhas_ De_ Mosca
+		Tooltip: ""
+	}
+
+	VileHeart: {
+		Tooltip: ""
+		DisplayName: Vile Heart
+	}
+
+	EmaranhadoDePernasDeMosca: {
+		Tooltip: ""
+		DisplayName: Emaranhado de Pernas de Mosca
+	}
+}
+
+Projectiles: {
+	FatmanProj.DisplayName: Fatman Proj
+	FatmanTelegraphProj.DisplayName: Fatman Telegraph Proj
+	CursedRadiationFireball.DisplayName: Cursed Radiation Fireball
+	MushroomSpreaderProjectile.DisplayName: Mushroom Spreader Projectile
+	MushroomBlastProjectile.DisplayName: Mushroom Blast Projectile
+	MushroomBoomerang.DisplayName: Mushroom Boomerang
+	SupernovaBoomerangBlastProjectile.DisplayName: Supernova Boomerang Blast Projectile
+	MushroomChargingProjectile.DisplayName: Mushroom Charging Projectile
+	WofBlastParticle.DisplayName: Wof Blast Particle
+	TargetingReticle.DisplayName: Targeting Reticle
+}
+
+Tiles: {
+	NuclearTile.MapEntry: Nuclear Tile
+	AtomicGrass.MapEntry: Atomic Grass
+	AtomicRock.MapEntry: Atomic Rock
+	AtomicSand.MapEntry: Atomic Sand
+	AtomicStone.MapEntry: Atomic Stone
+	AtomicVines.MapEntry: Atomic Vines
+	BlueMushroomTile.MapEntry: Blue Mushroom Tile
+	RedMushroomTile.MapEntry: Red Mushroom Tile
+	GiantBlueMushroomTile.MapEntry: Giant Blue Mushroom Tile
+	GiantRedMushroomTile.MapEntry: Giant Red Mushroom Tile
+	AtomicDirtBlock.MapEntry: Atomic Dirt Block
+	AtomicDirtTile.MapEntry: Atomic Dirt Tile
+	AtomicFloorGrass.MapEntry: Atomic Floor Grass
+	RadioactiveGrass.MapEntry: Radioactive Grass
+	RadiationLiquidTile.MapEntry: Radiation Liquid Tile
+}
+
+Buffs: {
+	RadiationDebuff: {
+		DisplayName: Radiation Debuff
+		Description: Mods.Atomic.Buffs.RadiationDebuff.Description
+	}
+
+	RedMushroomBuff: {
+		DisplayName: Red Mushroom Buff
+		Description: Mods.Atomic.Buffs.RedMushroomBuff.Description
+	}
+
+	DruggedBuff: {
+		DisplayName: Drugged Buff
+		Description: Mods.Atomic.Buffs.DruggedBuff.Description
+	}
+
+	MushroomFlightBuff: {
+		DisplayName: Mushroom Flight Buff
+		Description: Mods.Atomic.Buffs.MushroomFlightBuff.Description
+	}
+
+	MushroomBlueBuff: {
+		DisplayName: Salto do Cogumelo Azul
+		Description: Queda lenta, sem dano de queda e pulos mais altos.
+	}
+
+	MushroomRedBuff: {
+		DisplayName: Bênção do Cogumelo Vermelho
+		Description: Regeneração de vida permanente. Some apenas se você morrer.
+	}
+
+	RedMushroomFlightBuff: {
+		Description: Mods.Atomic.Buffs.RedMushroomFlightBuff.Description
+		DisplayName: Red Mushroom Flight Buff
+	}
+
+	RedMushroomRegenBuff: {
+		DisplayName: Red Mushroom Regen Buff
+		Description: Mods.Atomic.Buffs.RedMushroomRegenBuff.Description
+	}
+}
+
+Biomes: {
+	RadiationBiome: {
+		DisplayName: Radiação
+		TownNPCDialogueName: the Radiation Biome
+	}
+}
+
+Configs: {
+	AtomicConfig: {
+		DisplayName: Atomic Config
+		Headers.ModTester: Mod Tester Header
+
+		HyperSpeedGrass: {
+			Label: Hyper Speed Grass
+			Tooltip: ""
+		}
+
+		GrassSpreadRate: {
+			Label: Grass Spread Rate
+			Tooltip: ""
+		}
+
+		RadiationSpreadRate: {
+			Label: Radiation Spread Rate
+			Tooltip: ""
+		}
+
+		RadiationSpreadSpeed: {
+			Label: Radiation Spread Speed
+			Tooltip: ""
+		}
+
+		GrassSpreadSpeed: {
+			Label: Grass Spread Speed
+			Tooltip: ""
+		}
+
+		TuftSpreadSpeed: {
+			Label: Tuft Spread Speed
+			Tooltip: ""
+		}
+	}
+
+	SpreadSpeed: {
+		Tooltip: ""
+
+		Desligado: {
+			Label: Desligado
+			Tooltip: ""
+		}
+
+		Baixo: {
+			Label: Baixo
+			Tooltip: ""
+		}
+
+		Medio: {
+			Label: Medio
+			Tooltip: ""
+		}
+
+		Rapido: {
+			Label: Rapido
+			Tooltip: ""
+		}
+	}
+}
+
+NPCs.OrdinaryNpc1.DisplayName: Moscália Bostoleira
+
+BossChecklist: {
+	AngryFly: {
+		SpawnInfo: Spawna naturalmente no Bioma de Radiação. Se o jogador ficar fugindo dela por tempo demais, ela se irrita e vira a Mosca Raivosa.
+		DisplayName: Mosca Raivosa
+	}
+}
